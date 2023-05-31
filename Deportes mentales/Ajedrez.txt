@@ -1,0 +1,15 @@
+
+  493  mkdir "Deportes de equipo" "Deportes acuaticos" "Deportes extremos"
+  494  mkdir "Deportes de mesa" "Deportes mentales"
+  495  touch Deportes\ de\ equipo/Basquet
+  496  touch Deportes\ mentales/Ajedrez.txt
+  497  touch Deportes\ de\ mesa/Ping pong
+  498  rm Deportes\ de\ mesa/Ping 
+  499  touch Deportes\ de\ mesa/"Ping pong"
+  500  ls -R
+  501  rm Deportes\ extremos/
+  502  rm -r Deportes\ extremos/
+  503  PWD
+  504  git init
+  505  git remote add origin https://github.com/Agathion-JD/Practica_examen.git
+  506  history > Deportes\ mentales/Ajedrez.txt 
